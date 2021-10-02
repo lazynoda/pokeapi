@@ -1,0 +1,18 @@
+{
+  "height": 20,
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "grass"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "poison"
+      }
+    }
+  ],
+  "weight": 1000
+}

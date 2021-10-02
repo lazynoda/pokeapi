@@ -1,0 +1,12 @@
+{
+  "height": 6,
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fire"
+      }
+    }
+  ],
+  "weight": 85
+}
